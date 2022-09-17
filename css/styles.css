@@ -1,0 +1,26 @@
+body{
+    background-color: #EAF6F6;
+  }
+  hr{
+    border-style: dotted none none; /*alternative to this use border-top-style:dotted; that will give dotted border style onlky to upper side*/
+    
+    border-color: gray;
+    border-width: 5px;
+    width: 5%;
+    
+  }
+
+  img{
+    
+    border-radius: 50%;
+    
+  }
+  h1 {
+     color: #66BFBF;
+  }
+  h3 {
+    color: #66BFBF;
+ }
+  img{
+    height: 150px;
+  }
